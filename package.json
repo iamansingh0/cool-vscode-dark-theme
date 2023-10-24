@@ -3,6 +3,17 @@
   "displayName": "Aman Vscode Dark",
   "description": "Dark and cool vscode theme!",
   "version": "0.0.1",
+  "publisher": "AmanKumarSingh",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/iamansingh0/cool-vscode-dark-theme"
+  },
+  "keywords": [
+    "theme",
+    "dark theme",
+    "cool vscode theme",
+    "vscode dark theme"
+  ],
   "engines": {
     "vscode": "^1.83.0"
   },
